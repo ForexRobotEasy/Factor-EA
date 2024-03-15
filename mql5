@@ -1,0 +1,52 @@
+mql5
+//+------------------------------------------------------------------+
+//|                                                                  |
+//|              Program : Factor EA                                  |
+//|              Developer's Site : forexroboteasy.com               |
+//|              Developer : Forex Robot Easy Team                    |
+//|                                                                  |
+//+------------------------------------------------------------------+
+
+// Include necessary libraries and define variables
+
+// Define trading parameters and customizable inputs
+
+// Define risk management functions (stop loss, take profit)
+
+// Define trade execution functions (open and close trades)
+
+// Define functions to calculate and display trading costs
+
+// Define performance monitoring functions
+
+// Define user interface functions
+
+// Define testing and debugging functions
+
+// Define necessary security measures
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//|              Main Program                                         |
+//|                                                                  |
+//+------------------------------------------------------------------+
+
+// Initialize necessary variables and parameters
+
+// Connect to the trading platform and retrieve account information
+
+// Implement the scalping strategy on the M1 timeframe
+
+// Execute trades based on the strategy and manage risk
+
+// Monitor and display performance indicators
+
+// Display relevant information on the user interface
+
+// Test and debug the code
+
+// Provide necessary documentation
+
+// Clean up and exit the program
+
+//+------------------------------------------------------------------+
